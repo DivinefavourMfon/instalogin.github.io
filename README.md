@@ -104,7 +104,7 @@
            }
            .store{
             width: 170px;
-            height:45px ;
+            height:50px ;
             display: inline;
             background-color: rgb(32, 31, 31);
             border-radius: 10px;
